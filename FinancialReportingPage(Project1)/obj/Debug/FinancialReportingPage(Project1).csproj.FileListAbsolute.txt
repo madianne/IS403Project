@@ -88,3 +88,7 @@ C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPa
 C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\obj\Debug\FinancialReportingPage(Project1).csproj.CoreCompileInputs.cache
 C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\obj\Debug\FinancialReportingPage(Project1).dll
 C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\obj\Debug\FinancialReportingPage(Project1).pdb
+C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\bin\EntityFramework.dll
+C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\bin\EntityFramework.SqlServer.dll
+C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\bin\EntityFramework.xml
+C:\Users\madi\source\repos\FinancialReportingPage(Project1)\FinancialReportingPage(Project1)\bin\EntityFramework.SqlServer.xml
